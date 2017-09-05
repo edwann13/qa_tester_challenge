@@ -1,6 +1,6 @@
 # QA Test Engineer Assignment #
 
-Please complete the following assignment. Upload your final answer to your github account.
+Please complete the following assignment. Upload your final answer to your github account. If you have set up this as a heroku project, please provide the link.
 
 ### Questions ###
 
