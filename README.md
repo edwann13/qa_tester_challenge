@@ -8,7 +8,7 @@ Please complete the following assignment. Upload your final answer to your githu
 
 2. Given the following code:
 
-class Customer(object):
+```class Customer(object):
     """A customer of ABC Bank with a checking account. Customers have the
     following properties:
 
@@ -38,8 +38,4 @@ class Customer(object):
         dollars."""
         self.balance += amount
         return self.balance
-
-### Who do I talk to? ###
-
-* Repo owner or admin
-* Other community or team contact
+```
