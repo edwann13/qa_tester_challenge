@@ -8,4 +8,6 @@ Please complete the following assignment. Upload your final answer to your githu
 
 2. Given the following sample_account.py (see source code in repo), please write a unit test suite for the class.
 
+3. Set up your unit test suite on github and travis CI.
+
 
