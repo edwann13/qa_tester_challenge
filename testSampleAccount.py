@@ -9,7 +9,7 @@ class TestSampleAccount(unittest.TestCase):
 		account = Customer("James")
 		money = 10
 		account.set_balance(10)
-		self.assertEqual(money, account.withdraw(0))
+		self.assertEqual(money + 1, account.withdraw(0))
 
 
 
