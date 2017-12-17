@@ -6,6 +6,8 @@ Please complete the following assignment. Upload your final answer to your githu
 ### Questions ###
 
 1. What is your favorite test framework and why?
+My favorite testing framework is Capybara. One of the reasons why it is my favorite is because of the high-level api. The high level api allows developers and customers understand test cases. Another reason why it is my favorite is because it testes code through the UI and it comes with useful methods to test web apps.
+
 
 2. Given the following sample_account.py (see source code in repo), please write a unit test suite for the class.
 
