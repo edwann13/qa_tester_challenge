@@ -10,4 +10,4 @@ Please complete the following assignment. Upload your final answer to your githu
 
 3. Set up your unit test suite on github and travis CI.
 
-
+<img src="https://travis-ci.org/edwann13/qa_tester_challenge.svg?branch=master" />
